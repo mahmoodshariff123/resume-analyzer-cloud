@@ -27,6 +27,6 @@ An automated resume screening system that extracts skills from resumes using Azu
 ## Results
 - 85% extraction accuracy across 200+ test resumes
 - Processing time: 3 seconds per file
-
+https://chat.deepseek.com/share/kl7tmdfhg2jrwsybk5
 ## Author
 Roddam Mahmood Shariff
